@@ -1,0 +1,4 @@
+README instructions on compiling the game
+
+compile with command "make game"
+to remove the application and .o files, use command "make clean"
